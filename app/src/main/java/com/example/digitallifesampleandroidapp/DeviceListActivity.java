@@ -180,8 +180,7 @@ public class DeviceListActivity extends Activity {
 //	                    	        startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
 //	                    	    }
 
-                            Intent cameraIntent = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
-                            startActivityForResult(cameraIntent, TAKE_PHOTO_CODE);
+                            dlc.updateDevice("DL00000003", "lock", "unlock");
 
 /*	                            FrameLayout preview = (FrameLayout) findViewById(R.id.camera_preview);
 	                            preview.addView(mPreview);
@@ -203,14 +202,14 @@ public class DeviceListActivity extends Activity {
                                     dlc.updateDevice("PE00000002", "switch", "on");
                                 }
                             }, 5000);
-                          //  dlc.updateDevice("DL00000003", "lock", "unlock");
+                           dlc.updateDevice("DL00000003", "lock", "unlock");
 
 
 
                            // dlc.updateAlarm();
                         } else if(axis == 2){
-                            //dlc.updateDevice("DL00000003", "lock", "unlock");
-                         //   dlc.updateAlarm();
+                            dlc.updateDevice("DL00000003", "lock", "unlock");
+                     dlc.updateAlarm();
 
                         }
                     }

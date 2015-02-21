@@ -1,0 +1,5 @@
+C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\classes\debug
+C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\classes-25bccc229e29257c4a1a4ea69c729b11699dad3b.jar
+C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-8677a00d5185e94eaf39ebd0db2c48273cc3867a.jar
+C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\classes-5fd1b5db6b49fceef822e17a74b762072d83b6ff.jar
+C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-749812f7426ba70ca9850a1bfe653bc60c063d4c.jar

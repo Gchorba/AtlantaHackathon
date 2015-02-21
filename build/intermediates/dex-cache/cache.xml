@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\exploded-aar\com.getpebble\pebblekit\2.6.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="660dc1d342b8e31da1cc51e79c66d636a77a1e98">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\classes-25bccc229e29257c4a1a4ea69c729b11699dad3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-749812f7426ba70ca9850a1bfe653bc60c063d4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\classes-5fd1b5db6b49fceef822e17a74b762072d83b6ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="C:\Users\Gene\Desktop\Githubs\Divvie-master\DigitalLifeSampleAndroidApp1\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-8677a00d5185e94eaf39ebd0db2c48273cc3867a.jar" />
+    </item>
+
+</items>
